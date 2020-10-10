@@ -46,7 +46,7 @@ if x == None:
 elif x:
     print(f"Congratulations!!! {name} Won The Game")
 else:
-    print(f"{name}, You Lost The Game!!!")
+    print(f"{name} Lost The Game!!!")
 
 print("Thankyou!!! for playing our game")
 
